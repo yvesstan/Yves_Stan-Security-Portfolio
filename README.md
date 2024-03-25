@@ -14,7 +14,7 @@ Driven by my journey in computer science, I've cultivated a great passion for cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Privacy Security Controls Implementation          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with LogRhythm SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
