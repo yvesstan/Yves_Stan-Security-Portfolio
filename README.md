@@ -19,7 +19,7 @@ Driven by my journey in computer science, I've cultivated a great passion for cy
 | Security Automation with LogRhythm SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security scripting and Automation  | <a href="https://github.com/yvesstan/Scripting-Automation">Scipting & Automation Lab</a>||
 
 ## Tools
 
