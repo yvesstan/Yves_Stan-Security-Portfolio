@@ -1,4 +1,4 @@
-# Hello, I'm Yves Stan ![](https://github.com/yvesstan/Yves_Stan-Security-Portfolio/blob/main/mascotte-hacker-pour-sports-et-esports-logo-dessin-%C3%A0-la-main-illustration-soci%C3%A9t%C3%A9-dessiner-259487892.png)
+# Hello, I'm Yves Stan ![](https://github.com/yvesstan/Yves_Stan-Security-Portfolio/blob/main/ai-generated-generative-artificial-intelligence-hacker-with-hoodie-red-and-blue-neon-light-png.png)
 <a href="https://www.linkedin.com/in/yves-stanislas-adani-18157a22a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
