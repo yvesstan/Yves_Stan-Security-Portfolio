@@ -16,7 +16,7 @@ Driven by my journey in computer science, I've cultivated a great passion for cy
 |-----------------------------------------------|----------------------------|
 | Privacy Security Controls Implementation          | <a href="https://github.com/yvesstan/Anonymity-Lab/tree/main">Anonymity Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/yvesstan/Detection-Lab">Detection Lab</a>|
-| Security Automation with LogRhythm SOAR         | SOC Automation Lab|
+| Security Automation with SIEM solutions         | <a href="https://github.com/yvesstan/SOC-Automation-LAB/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Security scripting and Automation  | <a href="https://github.com/yvesstan/Scripting-Automation">Scipting & Automation Lab</a>||
